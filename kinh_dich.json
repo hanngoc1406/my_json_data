@@ -1,0 +1,232 @@
+{
+    "hexagrams": [
+        {
+            "id": 1,
+            "name": "Càn",
+            "image_url": "https://example.com/images/qian.jpg",
+            "description": "Quẻ Càn tượng trưng cho trời, sự sáng tạo, và năng lượng dương. Nó biểu thị sự mạnh mẽ, quyết đoán và thành công."
+        },
+        {
+            "id": 2,
+            "name": "Khôn",
+            "image_url": "https://example.com/images/kun.jpg",
+            "description": "Quẻ Khôn tượng trưng cho đất, sự tiếp nhận, và năng lượng âm. Nó biểu thị sự nuôi dưỡng, kiên nhẫn và hợp tác."
+        },
+        {
+            "id": 3,
+            "name": "Thủy Lôi Truân",
+            "image_url": "https://example.com/images/zhun.jpg",
+            "description": "Quẻ Truân biểu thị sự khởi đầu khó khăn, nhưng tiềm năng lớn. Nó khuyến khích sự kiên trì và thận trọng."
+        },
+        {
+            "id": 4,
+            "name": "Sơn Thủy Mông",
+            "image_url": "https://example.com/images/meng.jpg",
+            "description": "Quẻ Mông tượng trưng cho sự non trẻ và thiếu kinh nghiệm. Nó nhấn mạnh tầm quan trọng của giáo dục và sự hướng dẫn."
+        },
+        {
+            "id": 5,
+            "name": "Thủy Thiên Nhu",
+            "image_url": "https://example.com/images/xu.jpg",
+            "description": "Quẻ Nhu biểu thị sự chờ đợi và kiên nhẫn. Nó khuyên rằng đôi khi cần chờ thời cơ thích hợp để hành động."
+        },
+        {
+            "id": 6,
+            "name": "Thiên Thủy Tụng",
+            "image_url": "https://example.com/images/song.jpg",
+            "description": "Quẻ Tụng tượng trưng cho sự tranh chấp và xung đột. Nó khuyên nên giải quyết mâu thuẫn một cách hòa bình và công bằng."
+        },
+        {
+            "id": 7,
+            "name": "Địa Thủy Sư",
+            "image_url": "https://example.com/images/shi.jpg",
+            "description": "Quẻ Sư biểu thị sự lãnh đạo và tổ chức. Nó nhấn mạnh tầm quan trọng của kỷ luật và sự đoàn kết."
+        },
+        {
+            "id": 8,
+            "name": "Thủy Địa Tỷ",
+            "image_url": "https://example.com/images/bi.jpg",
+            "description": "Quẻ Tỷ tượng trưng cho sự gần gũi và hợp tác. Nó khuyến khích sự hòa hợp và hỗ trợ lẫn nhau."
+        },
+        {
+            "id": 9,
+            "name": "Phong Thiên Tiểu Súc",
+            "image_url": "https://example.com/images/xiaochu.jpg",
+            "description": "Quẻ Tiểu Súc biểu thị sự tích lũy nhỏ và kiên nhẫn. Nó khuyên nên tập trung vào các mục tiêu nhỏ trước khi đạt được thành tựu lớn."
+        },
+        {
+            "id": 10,
+            "name": "Thiên Trạch Lý",
+            "image_url": "https://example.com/images/lu.jpg",
+            "description": "Quẻ Lý tượng trưng cho sự chân thành và trung thực. Nó nhấn mạnh tầm quan trọng của việc sống đúng với bản chất của mình."
+        },
+        {
+            "id": 11,
+            "name": "Địa Thiên Thái",
+            "image_url": "https://example.com/images/tai.jpg",
+            "description": "Quẻ Thái biểu thị sự hòa hợp và thịnh vượng. Nó là dấu hiệu của sự cân bằng và thành công."
+        },
+        {
+            "id": 12,
+            "name": "Thiên Địa Bĩ",
+            "image_url": "https://example.com/images/pi.jpg",
+            "description": "Quẻ Bĩ tượng trưng cho sự trì trệ và khó khăn. Nó khuyên nên kiên nhẫn và chờ đợi thời cơ tốt hơn."
+        },
+        {
+            "id": 13,
+            "name": "Thiên Hỏa Đồng Nhân",
+            "image_url": "https://example.com/images/tongren.jpg",
+            "description": "Quẻ Đồng Nhân biểu thị sự hợp tác và đoàn kết. Nó khuyến khích làm việc cùng nhau để đạt được mục tiêu chung."
+        },
+        {
+            "id": 14,
+            "name": "Hỏa Thiên Đại Hữu",
+            "image_url": "https://example.com/images/dayou.jpg",
+            "description": "Quẻ Đại Hữu tượng trưng cho sự giàu có và thành công lớn. Nó là dấu hiệu của sự thịnh vượng và may mắn."
+        },
+        {
+            "id": 15,
+            "name": "Địa Sơn Khiêm",
+            "image_url": "https://example.com/images/qian.jpg",
+            "description": "Quẻ Khiêm biểu thị sự khiêm tốn và nhún nhường. Nó nhấn mạnh tầm quan trọng của việc không kiêu ngạo."
+        },
+        {
+            "id": 16,
+            "name": "Lôi Địa Dự",
+            "image_url": "https://example.com/images/yu.jpg",
+            "description": "Quẻ Dự tượng trưng cho sự chuẩn bị và cảnh giác. Nó khuyên nên luôn sẵn sàng cho những thay đổi bất ngờ."
+        },
+        {
+            "id": 17,
+            "name": "Trạch Lôi Tùy",
+            "image_url": "https://example.com/images/sui.jpg",
+            "description": "Quẻ Tùy biểu thị sự thích nghi và linh hoạt. Nó khuyến khích đi theo dòng chảy của cuộc sống."
+        },
+        {
+            "id": 18,
+            "name": "Sơn Phong Cổ",
+            "image_url": "https://example.com/images/gu.jpg",
+            "description": "Quẻ Cổ tượng trưng cho sự suy thoái và cần phải cải cách. Nó khuyên nên loại bỏ những thói quen xấu và tìm cách đổi mới."
+        },
+        {
+            "id": 19,
+            "name": "Địa Phong Thăng",
+            "image_url": "https://example.com/images/sheng.jpg",
+            "description": "Quẻ Thăng biểu thị sự tiến bộ và phát triển. Nó là dấu hiệu của sự tăng trưởng và thành công."
+        },
+        {
+            "id": 20,
+            "name": "Trạch Thủy Khốn",
+            "image_url": "https://example.com/images/kun.jpg",
+            "description": "Quẻ Khốn tượng trưng cho sự khó khăn và thử thách. Nó khuyên nên kiên nhẫn và tìm cách vượt qua nghịch cảnh."
+        },
+        {
+            "id": 21,
+            "name": "Thủy Phong Tỉnh",
+            "image_url": "https://example.com/images/jing.jpg",
+            "description": "Quẻ Tỉnh tượng trưng cho sự nuôi dưỡng và duy trì. Nó nhấn mạnh tầm quan trọng của việc chăm sóc bản thân và người khác."
+        },
+        {
+            "id": 22,
+            "name": "Hỏa Phong Đỉnh",
+            "image_url": "https://example.com/images/ding.jpg",
+            "description": "Quẻ Đỉnh biểu thị sự ổn định và vững chắc. Nó là dấu hiệu của sự thành công và thịnh vượng."
+        },
+        {
+            "id": 23,
+            "name": "Lôi Hỏa Phệ",
+            "image_url": "https://example.com/images/ge.jpg",
+            "description": "Quẻ Phệ tượng trưng cho sự thay đổi và cách mạng. Nó khuyên nên dũng cảm thay đổi để đạt được kết quả tốt hơn."
+        },
+        {
+            "id": 24,
+            "name": "Phong Lôi Ích",
+            "image_url": "https://example.com/images/yi.jpg",
+            "description": "Quẻ Ích biểu thị sự gia tăng và lợi ích. Nó là dấu hiệu của sự phát triển và tiến bộ."
+        },
+        {
+            "id": 25,
+            "name": "Thiên Lôi Vô Vọng",
+            "image_url": "https://example.com/images/wuwang.jpg",
+            "description": "Quẻ Vô Vọng tượng trưng cho sự ngẫu nhiên và không thể đoán trước. Nó khuyên nên sống một cách tự nhiên và không quá lo lắng về tương lai."
+        },
+        {
+            "id": 26,
+            "name": "Sơn Thiên Đại Súc",
+            "image_url": "https://example.com/images/dachu.jpg",
+            "description": "Quẻ Đại Súc biểu thị sự tích lũy lớn và thành công. Nó là dấu hiệu của sự thịnh vượng và giàu có."
+        },
+        {
+            "id": 27,
+            "name": "Sơn Lôi Di",
+            "image_url": "https://example.com/images/yi.jpg",
+            "description": "Quẻ Di tượng trưng cho sự nuôi dưỡng và chăm sóc. Nó nhấn mạnh tầm quan trọng của việc giáo dục và phát triển bản thân."
+        },
+        {
+            "id": 28,
+            "name": "Lôi Sơn Tiểu Quá",
+            "image_url": "https://example.com/images/xiaoguo.jpg",
+            "description": "Quẻ Tiểu Quá biểu thị sự vượt quá giới hạn nhỏ. Nó khuyên nên cẩn thận và không nên quá tham vọng."
+        },
+        {
+            "id": 29,
+            "name": "Lôi Hỏa Phong",
+            "image_url": "https://example.com/images/feng.jpg",
+            "description": "Quẻ Phong tượng trưng cho sự phong phú và đa dạng. Nó là dấu hiệu của sự thành công và thịnh vượng."
+        },
+        {
+            "id": 30,
+            "name": "Hỏa Sơn Lữ",
+            "image_url": "https://example.com/images/lu.jpg",
+            "description": "Quẻ Lữ biểu thị sự di chuyển và thay đổi. Nó khuyên nên linh hoạt và thích nghi với hoàn cảnh mới."
+        },
+        {
+            "id": 31,
+            "name": "Phong Sơn Tiệm",
+            "image_url": "https://example.com/images/jian.jpg",
+            "description": "Quẻ Tiệm tượng trưng cho sự tiến bộ từ từ. Nó khuyên nên kiên nhẫn và từng bước đạt được mục tiêu."
+        },
+        {
+            "id": 32,
+            "name": "Lôi Trạch Quy Muội",
+            "image_url": "https://example.com/images/guimei.jpg",
+            "description": "Quẻ Quy Muội biểu thị sự kết hợp và hôn nhân. Nó là dấu hiệu của sự hòa hợp và hợp tác."
+        },
+        {
+            "id": 33,
+            "name": "Hỏa Lôi Phệ Hạp",
+            "image_url": "https://example.com/images/feng.jpg",
+            "description": "Quẻ Phệ Hạp tượng trưng cho sự hợp nhất và đoàn kết. Nó khuyến khích sự hợp tác và làm việc cùng nhau."
+        },
+        {
+            "id": 34,
+            "name": "Thủy Sơn Kiển",
+            "image_url": "https://example.com/images/jian.jpg",
+            "description": "Quẻ Kiển biểu thị sự khó khăn và trở ngại. Nó khuyên nên kiên nhẫn và tìm cách vượt qua thử thách."
+        },
+        {
+            "id": 35,
+            "name": "Lôi Thủy Giải",
+            "image_url": "https://example.com/images/jie.jpg",
+            "description": "Quẻ Giải tượng trưng cho sự giải phóng và tự do. Nó là dấu hiệu của sự thoát khỏi khó khăn và bắt đầu mới."
+        },
+        {
+            "id": 36,
+            "name": "Sơn Thủy Mông",
+            "image_url": "https://example.com/images/meng.jpg",
+            "description": "Quẻ Mông tượng trưng cho sự non trẻ và thiếu kinh nghiệm. Nó nhấn mạnh tầm quan trọng của giáo dục và sự hướng dẫn."
+        },
+        {
+            "id": 37,
+            "name": "Thủy Hỏa Ký Tế",
+            "image_url": "https://example.com/images/jiji.jpg",
+            "description": "Quẻ Ký Tế biểu thị sự hoàn thành và thành công. Nó là dấu hiệu của sự viên mãn và đạt được mục tiêu."
+        },
+        {
+            "id": 38,
+            "name": "Hỏa Thủy Vị Tế",
+            "image_url": "https://example.com/images/weiji.jpg",
+            "description": "Quẻ Vị Tế tượng trưng cho sự chưa hoàn thành và còn dang dở. Nó khuyên nên tiếp tục nỗ lực để đạt được thành công."
+        }
+    ]
+}
